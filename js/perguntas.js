@@ -1,20 +1,20 @@
 export const perguntas = [
     {
-        enunciado: "Assim que saiu da escola você se depara com uma nova tecnologia, um chat que consegue responder todas as dúvidas que uma pessoa pode ter, ele também gera imagens e áudios hiper-realistas. Qual o primeiro pensamento?",
+        enunciado: "Você em um dia acorda de um breve cochilo e se depara com uma visão do mundo futurista em que os trabalhos não são mais habitaveis por humanos e sim por novas tecnologias completamente avançadas",
         alternativas: [
             {
-                texto: "Isso é assustador!",
+                texto: "Você considera algo bom para a humanidade!",
                 afirmacao: [
-                    "No início ficou com medo do que essa tecnologia pode fazer.",
-                    "Achou assustador pensar na velocidade na qual a tecnologia está avançando."
+                    "Uma nova tecnologia avançada foi criada e vc considerou algo bom para a humanidade e não foi uma decisão correta a se tomar com e o tempo você percebeu que essa nova tecnologia começou a afetar a humanidade,",
+                    
                 ],
                 proxima: 1,
             },
             {
-                texto: "Isso é maravilhoso!",
+                texto: "Você considera algo ruim para a humanidade",
                 afirmacao: [
-                    "Quis saber como usar IA no seu dia a dia.",
-                    "Pensou que IA pode ajudar em tarefas da sua vida."
+                    "Uma nova tecnologia avançada foi criada e você considerou algo ruim para a humanidade e ai você decidiu tomar uma decisão e decidiu debater sobre e questionar essa nova tecnologia.",
+                    
                 ],
                 proxima: 2,
             },
