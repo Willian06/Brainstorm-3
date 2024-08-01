@@ -24,20 +24,16 @@ export const perguntas = [
         enunciado: "Com todo o avanço dessa nova tecnologia vocẽ percebe que tudo esta diferente e afetando de forma ruim a humanidade",
         alternativas: [
             {
-                texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
+                texto: "voce decide questionar a nova tecnologia?",
                 afirmacao: [
-                    "Conseguiu utilizar a IA para buscar informações úteis.",
-                    "Percebeu que a IA pode ajudar a encontrar informações úteis na internet de forma mais rápida e direcionada.",
-                    "Percebeu que a IA consegue explicar termos complicados de forma simplificada e isso ajudou muito suas pesquisas sobre assuntos complexos."
+                    "Você se decidiu a questionar sobre essa nova tecnologia, ai sim começou a se questionar e debateu com os criadores sobre todo esse avanço."
                 ],
                 proxima: 3,
             },
             {
-                texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
+                texto: "você debate com os criadores da nova tecnologia e tenta inpedir que tudo continue?",
                 afirmacao: [
-                    "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho.",
-                    "Achou que era muito mais fácil procurar por respostas utilizando alguns meios mais tradicionais mesmo que levasse mais tempo.",
-                    "Sentiu um pouco de medo de quais dados pessoais seus a IA poderia utilizar e por isso prefere fazer suas coisas com pouca intromissão da tecnologia."
+                    "você se decidiu a debater com os criadores de tudo sobre a nova tecnologia e você debateu com os criadores e não obteve sucesso."
                 ],
                 proxima: 4,
             },
