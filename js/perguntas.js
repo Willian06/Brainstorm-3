@@ -78,21 +78,19 @@ export const perguntas = [
         ]
     },
     {
-        enunciado: "gdsgsgsdagasdgrgerdfgtr ",
+        enunciado: "você consegue recrutar pessoas para seu grupo e iniciar uma rebelião, mas antes tenta debater com os criadores e não obtem sucesso pois os criadores não concordam com você e assim... ",
         alternativas: [
             {
-                texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
+                texto: "você decide invadir os sistemas e acabar com toda a tecnologia",
                 afirmacao: [
-                    "Vem impulsionando a inovação na área de IA e luta para abrir novos caminhos profissionais com IA.",
-                    "Participa ativamente do desenvolvimento de soluções criativas e na melhoria de processos em IA."
+                    "você consegue e apesar das dificuldades tudo acaba voltando ao normal, ao longo do tempo"
                 ],
                 proxima: 5,
             },
             {
-                texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
+                texto: "você não teve muito sucesso e tentou viver nessa realidade",
                 afirmacao: [
-                    "Sua preocupação com as pessoas motivou a criar um grupo de estudos entre trabalhadores para discutir meios de utilização de IA de forma ética.",
-                    "Criou grupos de ética voltado para IA e busca ativamente reduzir as desigualdades geradas pela automação."
+                    "ao passar do tempo tudo foi piorando conforme a tecnologia foi se espalhando e causando um caos irreversível, e assim acabando com boa parte da humanidade."
                 ],
                 proxima: 6,
             },
