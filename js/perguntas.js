@@ -74,11 +74,11 @@ export const perguntas = [
                     "você e o seu grupo de pessoas conseguiram ter sucesso na rebelião e conseguiram deletar tudo que os criadores construiram e assim voltando ao normal, e assim os criadores sumiram do mapa e não foram mais encontrados."
                 ],
                 proxima: 6,
-            },
+            },i
         ]
     },
     {
-        enunciado: "Utilizar informações próprias traz um toque pessoal ao nosso trabalho. Agora imagine que você precisa participar de um debate sobre o quanto a IA impacta no trabalho do futuro. Qual posicionamento tomar?",
+        enunciado: "Utilizar informações próprias traz um toque pessoal ao nosso trabalho. Agora imagine que você precisa participar de um debate sobre o quanto a IA impacta no trabalho do futuro. Qual posicionamento tomar?     ",
         alternativas: [
             {
                 texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
@@ -99,8 +99,7 @@ export const perguntas = [
         ]
     },
     
-    
+   ]; 
     
     
    
-];
