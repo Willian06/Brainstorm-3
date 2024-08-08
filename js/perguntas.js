@@ -78,7 +78,7 @@ export const perguntas = [
         ]
     },
     {
-        enunciado: "Utilizar informações próprias traz um toque pessoal ao nosso trabalho. Agora imagine que você precisa participar de um debate sobre o quanto a IA impacta no trabalho do futuro. Qual posicionamento tomar?     ",
+        enunciado: "gdsgsgsdagasdgrgerdfgtr ",
         alternativas: [
             {
                 texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
