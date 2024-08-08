@@ -52,7 +52,7 @@ export const perguntas = [
             {
                 texto: "você começa a recrutar novas pessoas para iniciar uma rebelião",
                 afirmacao: [
-                    "Você quis recrutar novas pessoas para te ajudar, e você encotra um grupo de pessoas com a mesma intenção que você e vocês invadem o sistema e deletam tudo,"
+                    "Você quis recrutar novas pessoas para te ajudar, e você encotra um grupo de pessoas com a mesma intenção que você e vocês invadem o sistema e tentaram deletar tudo,"
                 ],
                 proxima: 4,
             },
