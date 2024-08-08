@@ -74,7 +74,7 @@ export const perguntas = [
                     "você e o seu grupo de pessoas conseguiram ter sucesso na rebelião e conseguiram deletar tudo que os criadores construiram e assim voltando ao normal, e assim os criadores sumiram do mapa e não foram mais encontrados."
                 ],
                 proxima: 6,
-            },i
+            },
         ]
     },
     {
