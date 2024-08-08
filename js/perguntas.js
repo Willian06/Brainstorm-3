@@ -40,23 +40,19 @@ export const perguntas = [
         ]
     },
     {
-        enunciado: "Com todo o avanço dessa nova tecnologia vocẽ percebe que tudo esta diferente e afetando de forma ruim a humanidade",
+        enunciado: "Com todo o avanço dessa nova tecnologia vocẽ percebe que estava certo e que isso realmente estava afetando de forma ruim a humanidade e decide",
         alternativas: [
             {
-                texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
+                texto: "tentar hakear os computadores mais avançados para encontras pontos fracos",
                 afirmacao: [
-                    "Conseguiu utilizar a IA para buscar informações úteis.",
-                    "Percebeu que a IA pode ajudar a encontrar informações úteis na internet de forma mais rápida e direcionada.",
-                    "Percebeu que a IA consegue explicar termos complicados de forma simplificada e isso ajudou muito suas pesquisas sobre assuntos complexos."
+                    "Você tomou uma decisão muito arriscada e decidiu hakear o computador avançado. Você consegue hakear o sistema do computador avançado encontra o inicio de tudo e só precisa deletar tudo,"
                 ],
                 proxima: 3,
             },
             {
-                texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
+                texto: "você começa a recrutar novas pessoas para iniciar uma rebelião"
                 afirmacao: [
-                    "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho.",
-                    "Achou que era muito mais fácil procurar por respostas utilizando alguns meios mais tradicionais mesmo que levasse mais tempo.",
-                    "Sentiu um pouco de medo de quais dados pessoais seus a IA poderia utilizar e por isso prefere fazer suas coisas com pouca intromissão da tecnologia."
+                    "Você quis recrutar novas pessoas para te ajudar, e você encotra um grupo de pessoas com a mesma intenção que você e vocês invadem o sistema e deletam tudo,"
                 ],
                 proxima: 4,
             },
