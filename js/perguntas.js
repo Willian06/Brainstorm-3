@@ -59,21 +59,19 @@ export const perguntas = [
         ]
     },
     {
-        enunciado: "Ferramentas de busca que utilizam IA podem facilitar muito nosso processo de busca por informações. Agora imagine que você precisa participar de um debate sobre o quanto a IA impacta no trabalho do futuro. Qual posicionamento tomar?",
+        enunciado: "agora você conseguiu debater e questionar, hakear todo o sistema e assim tudo promete voltar ao normal",
         alternativas: [
             {
-                texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
+                texto: "deleta todo o sistema avançado ",
                 afirmacao: [
-                    "Vem impulsionando a inovação na área de IA e luta para abrir novos caminhos profissionais com IA.",
-                    "Participa ativamente do desenvolvimento de soluções criativas e na melhoria de processos em IA."
+                    "Você e o grupo de pessoas que te apoiam conseguem deletar o sistema e enfim acabou com todo o avanço da tecnologia assim voltando tudo ao normal."
                 ],
                 proxima: 5,
             },
             {
-                texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
+                texto: "destroem tudo oque liga a nova tecnologia!",
                 afirmacao: [
-                    "Sua preocupação com as pessoas motivou a criar um grupo de estudos entre trabalhadores para discutir meios de utilização de IA de forma ética.",
-                    "Criou grupos de ética voltado para IA e busca ativamente reduzir as desigualdades geradas pela automação."
+                    "você e o seu grupo de pessoas conseguiram ter sucesso na rebelião e conseguiram deletar tudo que os criadores construiram e assim voltando ao normal, e assim os criadores sumiram do mapa e não foram mais encontrados."
                 ],
                 proxima: 6,
             },
