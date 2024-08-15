@@ -31,6 +31,8 @@ body {
 
 h1, .caixa-perguntas, .caixa-resultado{
     font-family: 'Chakra Petch', sans-serif;
+    -webkit-text-stroke-width: 2px; /* largura da borda */
+    -webkit-text-stroke-color: #f50000; /* cor da borda */
 }
 
 h1 {
@@ -70,7 +72,3 @@ button:hover {
         -webkit-text-stroke-color: #ff0cff; /* cor da borda */
 }
 
-.texto-principal{
-    -webkit-text-stroke-width: 2px; /* largura da borda */
-        -webkit-text-stroke-color: #f50000; /* cor da borda */
-}
