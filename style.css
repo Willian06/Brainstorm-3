@@ -2,7 +2,7 @@
 
 :root {
     --cor-fundo: #000000;
-    
+    --cor-botao: #2116af;
     --cor-secundaria: #212333;
     --cor-destaque: #ffffff;
     --cor-texto: #000000;
@@ -47,7 +47,7 @@ button {
 }
 
 button:hover {
-    background-color: var(--cor-destaque);
+    background-color: var(--cor-botao);
     color: var(--cor-principal);
 }
 
