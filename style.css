@@ -9,6 +9,7 @@
 }
   
 body {
+    background-image: url(Tecnologia-Avançada-MEGAWORK-e1579806467633.jpg);
     background-color: var(--cor-fundo);
     color: var(--cor-texto);
     font-family: 'Inter', sans-serif;
@@ -16,6 +17,8 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
+    background-repeat: no-repeat;
+    background-size: 100%;
 }
 
 .caixa-principal{
