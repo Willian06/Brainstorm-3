@@ -83,7 +83,7 @@ export const perguntas = [
             {
                 texto: "você decide invadir os sistemas e acabar com toda a tecnologia",
                 afirmacao: [
-                    "você consegue e apesar das dificuldades tudo acaba voltando ao normal, ao longo do tempo"
+                    "você consegue e apesar das dificuldades tudo acaba voltando ao normal, ao longo do tempo."
                 ],
                 proxima: 5,
             },
