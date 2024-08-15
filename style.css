@@ -64,3 +64,8 @@ button:hover {
     flex-direction: column;
     gap: 10px;
 }
+
+.titulo-principal{
+    -webkit-text-stroke-width: 2px; /* largura da borda */
+    -webkit-text-stroke-color: white; /* cor da borda */
+}
