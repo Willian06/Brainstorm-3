@@ -67,5 +67,5 @@ button:hover {
 
 .titulo-principal{
     -webkit-text-stroke-width: 2px; /* largura da borda */
-    -webkit-text-stroke-color: brgb(198, 9, 236); /* cor da borda */
+    -webkit-text-stroke-color: #d719f0; (198, 9, 236); /* cor da borda */
 }
