@@ -4,7 +4,7 @@
     --cor-fundo: #000000;
     
     --cor-secundaria: #212333;
-    --cor-destaque: #000000;
+    --cor-destaque: #ffffff;
     --cor-texto: #D7F9FF;
 }
   
@@ -67,5 +67,5 @@ button:hover {
 
 .titulo-principal{
     -webkit-text-stroke-width: 2px; /* largura da borda */
-    -webkit-text-stroke-color: rgb(198, 9, 236); /* cor da borda */
+    -webkit-text-stroke-color: brgb(198, 9, 236); /* cor da borda */
 }
