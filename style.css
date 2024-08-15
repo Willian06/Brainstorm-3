@@ -7,9 +7,9 @@
     --cor-destaque: #ffffff;
     --cor-texto: #000000;
 }
-  
+
 body {
-    background-image:url(/tecnologia1.jpg);
+    background-image: url(/tecnologia1.jpg);
     background-color: var(--cor-fundo);
     color: var(--cor-texto);
     font-family: 'Inter', sans-serif;
@@ -21,7 +21,7 @@ body {
     background-size: 100%;
 }
 
-.caixa-principal{
+.caixa-principal {
     background-color: var(--cor-principal);
     width: 90%;
     max-width: 600px;
@@ -29,10 +29,10 @@ body {
     padding: 20px;
 }
 
-h1, .caixa-perguntas, .caixa-resultado{
+h1,
+.caixa-perguntas,
+.caixa-resultado {
     font-family: 'Chakra Petch', sans-serif;
-    -webkit-text-stroke-width: 10px; /* largura da borda */
-    -webkit-text-stroke-color: #f50000; /* cor da borda */
 }
 
 h1 {
@@ -53,22 +53,28 @@ button:hover {
     color: var(--cor-principal);
 }
 
-.caixa-resultado{
+.caixa-resultado {
     display: none;
 }
 
-.caixa-resultado.mostrar{
+.caixa-resultado.mostrar {
     display: block;
 }
 
-.caixa-alternativas{
+.caixa-alternativas {
     display: flex;
     flex-direction: column;
     gap: 10px;
 }
 
-.titulo-principal{
-    -webkit-text-stroke-width: 2px; /* largura da borda */
-        -webkit-text-stroke-color: #ff0cff; /* cor da borda */
+.titulo-principal {
+    -webkit-text-stroke-width: 2px;
+    /* largura da borda */
+    -webkit-text-stroke-color: #ff0cff;
+    /* cor da borda */
 }
 
+.texto-principal {
+    -webkit-text-stroke-width: 2px; /* largura da borda */
+    -webkit-text-stroke-color: #f50000; /* cor da borda */
+}
