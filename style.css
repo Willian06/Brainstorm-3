@@ -70,8 +70,7 @@ button:hover {
         -webkit-text-stroke-color: #ff0cff; /* cor da borda */
 }
 
-.tela-inicial{
-
+.texto-principal{
     -webkit-text-stroke-width: 2px; /* largura da borda */
         -webkit-text-stroke-color: #f50000; /* cor da borda */
 }
