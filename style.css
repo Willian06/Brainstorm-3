@@ -34,7 +34,7 @@ h1, .caixa-perguntas, .caixa-resultado{
 }
 
 h1 {
-    color: var(--cor-destaque);
+    color: var(--cor-botao);
 }
 
 button {
